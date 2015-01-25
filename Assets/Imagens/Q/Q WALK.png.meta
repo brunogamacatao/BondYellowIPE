@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: af75555fe5c1ac54a8383a7c0fcd2a67
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Q WALK_0
+    21300002: Q WALK_1
+    21300004: Q WALK_2
+    21300006: Q WALK_3
+    21300008: Q WALK_4
+    21300010: Q WALK_5
+    21300012: Q WALK_6
+    21300014: Q WALK_7
+    21300016: Q WALK_8
+    21300018: Q WALK_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Q WALK_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 427
+        width: 131
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 427
+        width: 146
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 427
+        width: 141
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 427
+        width: 97
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 427
+        width: 104
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 21
+        width: 104
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 21
+        width: 97
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 21
+        width: 141
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 21
+        width: 146
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Q WALK_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 21
+        width: 131
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: d4906356288deeb4088ccb1d3bcad6a3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M WALK_0
+    21300002: M WALK_1
+    21300004: M WALK_2
+    21300006: M WALK_3
+    21300008: M WALK_4
+    21300010: M WALK_5
+    21300012: M WALK_6
+    21300014: M WALK_7
+    21300016: M WALK_8
+    21300018: M WALK_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: M WALK_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 422
+        width: 139
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 423
+        width: 149
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 432
+        width: 141
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 422
+        width: 115
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 422
+        width: 100
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 21
+        width: 100
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 21
+        width: 115
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 31
+        width: 141
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 22
+        width: 149
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M WALK_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 21
+        width: 139
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
